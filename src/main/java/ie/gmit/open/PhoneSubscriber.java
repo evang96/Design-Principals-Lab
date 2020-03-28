@@ -1,3 +1,7 @@
+//Evan Garvey
+//SoftwareEng with Test
+//Design Principals lab
+//This class have been changed to follow the open-closed principal
 package ie.gmit.open;
 
 import java.util.List;

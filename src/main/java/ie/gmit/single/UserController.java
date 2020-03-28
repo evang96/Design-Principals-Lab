@@ -1,7 +1,7 @@
 //Evan Garvey
 //SoftwareEng with Test
 //Design Principals lab
-
+//This Lab shows why this class is violating the SRP and how to fix that. It separates out each responsibility into its own class.
 package ie.gmit.single;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
